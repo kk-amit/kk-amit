@@ -18,6 +18,8 @@
 - 📱 **13+ years of experience** in Android Development
 - 💻 Passionate about **Jetpack Compose**, **Unit Testing**, **Hilt**, **MVVM**, **Kotlin**, and **Clean Architecture**
 - 🏆 **Winner of GlobalLogic 1st Hackathon** → [Watch here](https://www.youtube.com/watch?v=CSVKtBujcFM)
+- 📄 [Download My Resume](https://github.com/kk-amit/kk-amit/blob/main/AmitSrivastavaResume_13_Years_Expereince.pdf)
+
   
 ### 🔗 Connect with Me
 - 📫 **LinkedIn**: [Amit Srivastava](https://www.linkedin.com/in/amit-srivastava-667b1330/)
