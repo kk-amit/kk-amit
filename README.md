@@ -42,6 +42,22 @@
 
 ---
 
+### 🧪 Projects
+
+- 🏠 [**Homesight**](https://connected.vantiva.com/homesight-by-vantiva) – HomeSight helps older adults stay connected and supported through their TV.
+- 🌊 [**Surfboard Central**](https://play.google.com/store/search?q=surfboard+central&c=apps) – Manage your SURFboard devices.
+- 🙏 [**Sadhguru App**](https://play.google.com/store/apps/details?id=com.ishafoundation.app&hl=en_IN) – 5M+ downloads spiritual and wellness app.
+- 🧠 [**Medtronic Intellis**](https://www.medtronic.com/in-en/healthcare-professionals/products/neurological/intellis-platform.html) – Smart therapy and remote patient monitoring platform.
+
+---
+
+### 🧾 Patents
+
+- 🔐 [Secure system and method for onboarding router – US11611869B2](https://patents.google.com/patent/US11611869B2/en?oq=11611869)
+- 🔐 [Secure system and method for onboarding router (Continued) – US11153748B2](https://patents.google.com/patent/US11153748B2/en?oq=11153748)
+
+---
+
 ### 🏆 GlobalLogic Hackathon
 
 I was honored to win **GlobalLogic's 1st Hackathon**. You can check out the video of the event here:  
