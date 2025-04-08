@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/kk-amit/kk-amit/main/AM7_5380-modified.png" alt="Amit's Photo" width="250" />
-</p>
+</p> -->
 
 <h1 align="center">Hi there! 👋 I'm Amit Srivastava</h1>
 
