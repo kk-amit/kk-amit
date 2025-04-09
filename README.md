@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Staff+Android+Developer+%7C+Architect;13%2B+Years+in+Mobile+App+Development;Jetpack+Compose+%7C+Kotlin+%7C+MVVM+%7C+Hilt+%7C+CI%2FCD;Open+Source+Contributor+%7C+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=600&lines=Staff+Android+Developer+%7C+Architect;13%2B+Years+in+Mobile+App+Development;Jetpack+Compose+%7C+Kotlin+%7C+MVVM+%7C+Hilt+%7C+CI%2FCD;Open+Source+Contributor+%7C+Hackathon+Winner" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,6 +41,15 @@
 ### 📚 Featured Open Source Library
 
 [**JetCompose**](https://github.com/kk-amit/jetcompose) - A modular Jetpack Compose library used by 200+ developers. 
+
+
+---
+
+### 📝 Medium Publications
+
+- 📊 [From Crashes to Confidence: How We Achieved 99.6% Crash-Free Users on Android](https://medium.com/@kkamit05/from-crashes-to-confidence-how-we-achieved-99-6-crash-free-users-on-android-d2a97dfce221)
+- 🛠️ [From Idea to Reality: Building the Jetcompose Library](https://medium.com/@kkamit05/from-idea-to-reality-building-the-jetcompose-library-42583add34d3)
+
 
 ---
 
