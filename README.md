@@ -49,6 +49,9 @@
 
 - 📊 [From Crashes to Confidence: How We Achieved 99.6% Crash-Free Users on Android](https://medium.com/@kkamit05/from-crashes-to-confidence-how-we-achieved-99-6-crash-free-users-on-android-d2a97dfce221)
 - 🛠️ [From Idea to Reality: Building the Jetcompose Library](https://medium.com/@kkamit05/from-idea-to-reality-building-the-jetcompose-library-42583add34d3)
+- 🧠 [13 Years with Android: What I'd Do Differently If I Were Starting Today (Part 1)](https://medium.com/@kkamit05/13-years-with-android-what-id-do-differently-if-i-were-starting-today-part-1-95fd1d7227c9)
+
+
 
 
 ---
